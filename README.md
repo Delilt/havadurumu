@@ -1,16 +1,11 @@
-# havadurumu
+# weather
 
-A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project is made for fetching weather informations. it is spesificlly works for one given city. It is just mmade for try out the api resource. 
+This mobile app uses user current location and gives results belong to location. 
 
-A few resources to get you started if this is your first Flutter project:
+I will add some improvement on next release. i am planning to add a filter parameter to choose spesific location to fetch data and some ui improvements.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+keep up with my flutter learning road.
